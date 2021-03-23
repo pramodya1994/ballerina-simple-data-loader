@@ -1,0 +1,4 @@
+[simpleDbDataLoader]
+csvPath = "./files/contacts.csv"
+dbUser = "root"
+dbPassword = "root1234"
