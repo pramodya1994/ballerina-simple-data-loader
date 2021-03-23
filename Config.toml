@@ -1,4 +1,6 @@
 [simpleDbDataLoader]
 csvPath = "./files/contacts.csv"
+dbHost = "localhost"
 dbUser = "root"
 dbPassword = "root1234"
+dbName = "testdb"
